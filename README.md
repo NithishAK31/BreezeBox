@@ -19,5 +19,5 @@ It fetches real-time weather data from OpenWeatherMap API and displays it in a s
 ## Demo
 Pull and run the container:
 ```bash
-podman pull docker.io/<your-dockerhub-username>/breezebox:latest
-podman run -p 5000:5000 docker.io/<your-dockerhub-username>/breezebox:latest
+podman pull docker.io/nithishak310806/breezebox:latest
+podman run -p 5000:5000 docker.io/nithishak310806/breezebox:latest
